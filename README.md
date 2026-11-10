@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-ebon-psi-38.vercel.app">
+  <a href="https://ilyasov.vercel.app">
     <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://t.me/ilyasov09">
@@ -65,7 +65,7 @@ I am a self-taught developer from Samarkand, Uzbekistan, passionate about buildi
 
 | Project | Tech Stack | Description | Live Demo |
 | :--- | :--- | :--- | :---: |
-| **[Ilyasov](https://github.com/Ilyasov09/Ilyasov)** | React 18, TypeScript, Tailwind v4, Vite | Official personal developer portfolio with i18n, custom themes, and Spotify embed. | [Preview](https://portfolio-ebon-psi-38.vercel.app) |
+| **[Ilyasov](https://github.com/Ilyasov09/Ilyasov)** | React 18, TypeScript, Tailwind v4, Vite | Official personal developer portfolio with i18n, custom themes, and Spotify embed. | [Preview](https://ilyasov.vercel.app) |
 | **[noma](https://github.com/Ilyasov09/noma)** | React, TypeScript, Radix UI, Vite | Interactive cyberpunk-inspired web portfolio with mouse parallax and 3D tilt cards. | [Preview](https://noma-gray.vercel.app) |
 | **[deku](https://github.com/Ilyasov09/deku)** | Python, pyTelegramBotAPI, Flask | Fast Telegram downloader bot for Instagram posts/reels and Pinterest media. | [Code](https://github.com/Ilyasov09/deku) |
 | **[api](https://github.com/Ilyasov09/api)** | Python, Flask, Gunicorn, REST API | Backend media extraction microservice powering automated link resolution. | [Code](https://github.com/Ilyasov09/api) |
@@ -85,7 +85,7 @@ I am a self-taught developer from Samarkand, Uzbekistan, passionate about buildi
 
 - 💬 **Telegram:** [@ilyasov09](https://t.me/ilyasov09)
 - 📢 **Tech Channel:** [@cyberdevuz](https://t.me/cyberdevuz)
-- 🌐 **Portfolio Website:** [portfolio-ebon-psi-38.vercel.app](https://portfolio-ebon-psi-38.vercel.app)
+- 🌐 **Portfolio Website:** [ilyasov.vercel.app](https://ilyasov.vercel.app)
 - 📧 **Email:** [javlonilyasov97@gmail.com](mailto:javlonilyasov97@gmail.com)
 
 <div align="center">
