@@ -67,6 +67,7 @@ I am a self-taught developer from Samarkand, Uzbekistan, passionate about buildi
 | :--- | :--- | :--- | :---: |
 | **[Ilyasov](https://github.com/Ilyasov09/Ilyasov)** | React 18, TypeScript, Tailwind v4, Vite | Official personal developer portfolio with i18n, custom themes, and Spotify embed. | [Preview](https://ilyasov.vercel.app) |
 | **[noma](https://github.com/Ilyasov09/noma)** | React, TypeScript, Radix UI, Vite | Interactive cyberpunk-inspired web portfolio with mouse parallax and 3D tilt cards. | [Preview](https://noma-gray.vercel.app) |
+| **[ielts-controller](https://github.com/Ilyasov09/ielts-controller)** | Python, aiogram 3, SQLAlchemy, Docker | IELTS-prep Telegram bot: skill reports, band-score statistics, exam countdown, streaks, study planner, and PDF/Excel exports. | [Code](https://github.com/Ilyasov09/ielts-controller) |
 | **[deku](https://github.com/Ilyasov09/deku)** | Python, pyTelegramBotAPI, Flask | Fast Telegram downloader bot for Instagram posts/reels and Pinterest media. | [Code](https://github.com/Ilyasov09/deku) |
 | **[api](https://github.com/Ilyasov09/api)** | Python, Flask, Gunicorn, REST API | Backend media extraction microservice powering automated link resolution. | [Code](https://github.com/Ilyasov09/api) |
 
